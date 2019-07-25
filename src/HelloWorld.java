@@ -3,7 +3,7 @@ public class HelloWorld {
     private String name;
 
     public HelloWorld(){
-        System.out.println("constructer");
+        System.out.println("construct");
     }
 
     public void setName(String name){
